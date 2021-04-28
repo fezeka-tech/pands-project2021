@@ -1,5 +1,5 @@
 # pands-project2021
-This project will research and analyse Iris data. 
+In this project I will research, write a summary of, and analyse Iris data. I will also write a program that will output a summary of each variable to a single text file, save a hisogram of each variable to png files, and output a scatter plot of each pair of variables.
 
 Iris data set is a data set that has record of 150 Iris flowers, 50 from each of the three species; versicolor, virginica and setosa. The data includes dimensions of the Iris' botanical parts, sepal and petal, in centimeters. It is used in machine learning as a discriminant analysis problem. 
 
