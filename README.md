@@ -5,10 +5,14 @@ Iris data set is a data set that has record of 150 Iris flowers, 50 from each of
 
 The first time that Fisher presented the sepal and petal measures of the three Iris species publicly was in a 1936 report, “The Use of Multiple Measurements in Taxonomic Problems”.
 
-
+*statistical model- machine learning
 
 
 
 
 REFERENCES
 CUI, YONG; The Iris Dataset- A little bit of History and Biology. Accessed 24 April 2021. https://towardsdatascience.com/the-iris-dataset-a-little-bit-of-history-and-biology-fb4812f5a7b5
+
+UCI Machine Learning Repository; http://archive.ics.uci.edu/ml/datasets/Iris/
+
+https://www.kaggle.com/adityabhat24/iris-data-analysis-and-machine-learning-python
