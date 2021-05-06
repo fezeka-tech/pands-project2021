@@ -9,3 +9,18 @@ print (df.head(5))
 
 print(df.describe())
 print(type(df.decsribe())) 
+
+
+
+
+#saves a histogram of each variable to png files# 
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+from sklearn.datasets import load_iris
+
+df.plot.histogram
+
+plt.show(). # finalise and check does code run#
