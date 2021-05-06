@@ -1,15 +1,11 @@
 // This program outputs a summary of each variable to a single text file//
 
 import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
 
+irisData= irisdata.scv #work on chanhing file to csv for analysis#
 
-from sklearn.datasets import load_iris
-Iris= load_iris
+df = pd.DataFrame(irisData, columns = ['sepal length', 'sepal width', 'petal length', 'petal width', 'class'])
+print (df.head(5))
 
-<<<<<<< HEAD
-=======
-Iris.data.shape
->>>>>>> e6e526c8c8748389e6508075d6920a5dc7fd43db
+print(df.describe())
+print(type(df.decsribe())) 
