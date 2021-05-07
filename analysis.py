@@ -5,6 +5,7 @@ import numpy as np
 
 irisData= irisdata.csv
 
+df = pd.read_csv('irisData')
 df = pd.DataFrame(irisData, columns = ['sepal length', 'sepal width', 'petal length', 'petal width', 'class'])
 print (df.head(5))
 
