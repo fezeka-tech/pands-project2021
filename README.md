@@ -16,3 +16,5 @@ CUI, YONG; The Iris Dataset- A little bit of History and Biology. Accessed 24 Ap
 UCI Machine Learning Repository; http://archive.ics.uci.edu/ml/datasets/Iris/
 
 https://www.kaggle.com/adityabhat24/iris-data-analysis-and-machine-learning-python
+
+https://www.w3schools.com/python/pandas/pandas_csv.asp
