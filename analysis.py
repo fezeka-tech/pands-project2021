@@ -1,15 +1,19 @@
 # This program outputs a summary of each variable to a single text file #
 
-import pandas as pd
+import pandas as pd.      #import modules#
 import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
 
-irisData= irisdata.csv
 
-df = pd.read_csv('irisData')
-df = pd.DataFrame(irisData, columns = ['sepal length', 'sepal width', 'petal length', 'petal width', 'class'])
+
+df = pd.read_csv('iris.csv').  #loading the dataset#
+
+
+df = pd.DataFrame(iris.csv, columns = ['sepal length', 'sepal width', 'petal length', 'petal width', 'class'])
 print (df.head(5))
 
-print(df.describe())
+print(df.describe()).  #to display stats about data#
 print(type(df.decsribe())) 
 
 
